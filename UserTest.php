@@ -9,7 +9,7 @@ require_once './User.php';
  */
 class UserTest extends PHPUnit_Framework_TestCase 
 {
-	protected $User;
+    protected $User;
 		
     public function setUp()
     {
